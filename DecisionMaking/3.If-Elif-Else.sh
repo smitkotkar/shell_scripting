@@ -1,4 +1,4 @@
-number=4
+number=2
 
 if [ $number -eq 1]; then
     echo value of number is 1
