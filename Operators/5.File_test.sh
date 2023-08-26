@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FileName="04.Bitwise.sh"
+FileName="4.Bitwise.sh"
 
 if [ -e $FileName ]
 then
