@@ -1,6 +1,6 @@
 #!/bin/bash
 
-FileName="4.Bitwise.sh"
+FileName="smit.txt"
 
 if [ -e $FileName ]
 then
